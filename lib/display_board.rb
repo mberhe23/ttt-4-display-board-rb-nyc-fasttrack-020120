@@ -16,4 +16,4 @@ turn_2 = ["X"," "," "," "," ","0"," "," "," "]
 display_board(turn_2)
 puts "End of turn 2"
 
-turn_3 = 
+turn_3 = ["X"," "," "," "," ","0"," "," "," "]
